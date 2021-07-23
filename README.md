@@ -1,5 +1,4 @@
-<img align="right" width="400" height="400" src="https://media-exp1.licdn.com/dms/image/C4D03AQFfql71XJA4kw/profile-displayphoto-shrink_800_800/0/1593619651520?e=1632355200&v=beta&t=dpt8ySrfnFw7Cr9mn_E42Ff3AZX_q2cFVNocl3g0NbM">
- 
+
 # Welcome!
  
 ## I'm Guilherme Endrigo!
