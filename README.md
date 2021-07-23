@@ -1,5 +1,5 @@
-<img align="right" width="400" height="400" src="blob:https://web.telegram.org/fdb57d87-4bf7-422a-993d-021f050baa63">
-
+<!-- <img align="right" width="400" height="400" src="blob:https://web.telegram.org/fdb57d87-4bf7-422a-993d-021f050baa63">
+ -->
 # Welcome!
  
 ## I'm Guilherme Endrigo!
