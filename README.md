@@ -17,8 +17,8 @@ I always try to be proactive so that I can develop new skills and thus achieve r
 
 📈 SKILL
 
-Office package, Google, LinkedIn and other Social Selling tools
-Now focused on study JAVA, Angular, C# and .NET
+-Office package, Google, LinkedIn and other Social Selling tools.
+-Now focus on study in JAVA, Angular, C# and .NET to web fullstack.
 
  
 ## About me 
