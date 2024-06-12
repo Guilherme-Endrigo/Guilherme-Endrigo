@@ -4,21 +4,13 @@
  
 ## I'm Guilherme Endrigo!
  
-✔️ WHAT MOTIVATES ME
+🚀 Hello, world! I'm a C# backend developer who swapped international relations  for semicolons and curly braces. I've traded in my diplomatic passport for a keyboard, and I'm on a mission to build robust and efficient systems.
 
-I always try to be proactive so that I can develop new skills and thus achieve results through a good strategic design with innovation, adaptation and growth.
+🌍 With a background in international relations, I bring a global perspective to my code. I believe in the power of technology to bring nations closer, one line of code at a time.
 
-📚 MY JOURNEY
+💻 I love diving deep into complex problems and emerging with simple solutions. I use .NET e Python. In my spare time, you'll find me battling it out in the latest strategy games or exploring new technologies. But don't let my gaming fool you - the only "console" I'm truly committed to is the one in my code editor!
 
--Bachelor in International Relations from Faculdades Integradas Rio Branco
-.Experience in customer prospecting and in the commercial area, and recently working in the purchasing area acting as responsible and developing strategies.
-
--English, Japanese, Spanish and French.
-
-📈 SKILL
-
--Office package, Google, LinkedIn and other Social Selling tools.
--Now focus on study in JAVA, Angular, C# and .NET to web fullstack.
+🔧 I'm passionate about clean, efficient code, and I believe that the best code is like a good joke - if you have to explain it, it's not that good. So, I strive to write code that's as clear as my intentions - to make the world a better place, one function at a time ;)
 
  
 ## About me 
